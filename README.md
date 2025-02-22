@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ScrappyNozicka
+- 👋 Hi, I’m Vojtech Nozicka
 - 👀 I’m interested in role of Data Engineer.
 - 🌱 I’m currently learning all that's needed to do that at the Northcoders Data Engineer bootcamp.
 - 📫 To reach me you can use my LinkedIn: https://www.linkedin.com/in/vojtech-nozicka-777140272/
